@@ -1,0 +1,16 @@
+
+#hero {
+    background-color: #2e2f41;
+    color: #fff;
+    text-align: center;
+}
+
+.hero-actions-wrapper {
+    display: flex;
+    justify-content: flex-start;
+
+    > button {
+        color: #fff;
+        background: #494fba;
+    }
+}

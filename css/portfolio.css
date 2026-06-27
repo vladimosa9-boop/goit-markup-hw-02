@@ -1,0 +1,13 @@
+.portfolio-card-wrapper{
+display: flex;
+flex-direction: column;
+gap: 6px;
+background-color: #fff;
+}
+.portfolio-card-content {
+    display: flex;
+    flex-direction: column;
+    align-content: start;
+    flex-wrap: wrap;
+    gap: 3px;
+}

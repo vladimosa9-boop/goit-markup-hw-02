@@ -9,9 +9,15 @@
   font-size: 18px;
   color: #2e2f42;
 }
+
 .logo-accent {
   color: #4d5ae5;
 }
+
+.logo-white {
+  color: #fff;
+}
+
 .nav-list {
   display: flex;
   gap: 40px;
