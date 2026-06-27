@@ -1,13 +1,31 @@
-.portfolio-card-wrapper{
-display: flex;
-flex-direction: column;
-gap: 6px;
-background-color: #fff;
+.portfolio {
+  background-color: #ffffff;
 }
-.portfolio-card-content {
-    display: flex;
-    flex-direction: column;
-    align-content: start;
-    flex-wrap: wrap;
-    gap: 3px;
+
+.portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.portfolio-item {
+  background-color: #ffffff;
+}
+
+.portfolio-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-category {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
